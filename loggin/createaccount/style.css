@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+}
+
+form {
+    width: 100%;
+    margin: auto;
+    width: 90%;
+    max-width: 780px;
+    padding: 8em 5em;
+    border-radius: 10px;
+    
+}

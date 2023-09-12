@@ -1,0 +1,12 @@
+#enlace {
+  color: black;
+}
+
+#menucolor {
+  color: black;
+}
+
+#enlace:hover, #menucolor:hover{
+color: #ff764d;
+cursor: pointer;
+}
